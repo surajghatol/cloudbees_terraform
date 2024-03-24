@@ -1,0 +1,9 @@
+variable "vpc_cidr" {}
+variable "pub_sub_az1_cidr" {}
+variable "pub_sub_az1" {}
+variable "pub_sub_az2_cidr" {}
+variable "pub_sub_az2" {}
+variable "priv_sub_az2" {}
+variable "priv_sub_az1" {}
+variable "priv_sub_az1_cidr" {}
+variable "priv_sub_az2_cidr" {}

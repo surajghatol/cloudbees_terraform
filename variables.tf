@@ -1,0 +1,10 @@
+variable "main_region" {}
+variable "main_vpc_cidr" {}
+variable "main_pub_sub_az1_cidr" {}
+variable "main_pub_sub_az1" {}
+variable "main_pub_sub_az2_cidr" {}
+variable "main_pub_sub_az2" {}
+variable "main_priv_sub_az1" {}
+variable "main_priv_sub_az2" {}
+variable "main_priv_sub_az1_cidr" {}
+variable "main_priv_sub_az2_cidr" {}
